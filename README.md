@@ -843,7 +843,7 @@ TVK,tvbus://6LFV9jCFVFck2XnyL5Te9gMMez7G4QFBKvC17bHobTSJG7NFaqhvN37wTyVrE
 CTV9,tvbus://62sKmLopCUohviRGrtnv2sD37k62ba8TmDVoNDS5JbxtXyyCt8Gxq1Q2bBnDJ
 bayontv,tvbus://3sr96jjB4TWbEokjVpwWNViYEAafKhkKwFeMQx9uEji1ygcBgjk7HniLjTb3F
 
-NEWUB,#genre#
+安博,#genre#
 寰宇新聞,http://9.crtv1.ml/hstv/crtv.php?id=304
 加拿大-城市电视,http://9.crtv1.ml/hstv/crtv.php?id=1289
 TVB 明珠台,http://9.crtv1.ml/hstv/crtv.php?id=391
