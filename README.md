@@ -1,8 +1,4 @@
 香港/HongKong,#genre#
-新時代東部,http://192.30.243.236:1313/soot/9613.php?id=1286
-新時代西部,http://192.30.243.236:1313/soot/9613.php?id=1287
-城市電視,http://192.30.243.236:1313/soot/9613.php?id=1289
-新時代2,http://192.30.243.236:1313/soot/9613.php?id=1288
 翡翠臺,tvbus://7Vg9rBaLjf76dvHX9hT4fXkeVwYybQ35gzxjBXtC7vML5dZCq2
 無線新聞,tvbus://5VGCBcmwQy56rSi1ZiKRmqbt9M2TK1nJTCG88XE29ZW5x7tWURTeGNDVmqLj8
 明珠臺,p2p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
