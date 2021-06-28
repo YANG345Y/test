@@ -1,4 +1,5 @@
-雙星母雞-電影,#genre#
+電影,#genre#
+香港有線新聞,http://hkyx.love.sky-media.tk/test/index.php?id=37
 HBO-HD,p5p://fccs.123178.top:9906/604338a40001163206880e5297cc95ab
 HBO原创,p5p://fccs.123178.top:9906/604339520007991f068ab7ad0427275f
 HBO Hits HD,p5p://fccs.123178.top:9906/60442428000dc9020040224339113352
@@ -39,7 +40,7 @@ AXN,p5p://fccs.123178.top:9906/6044d92d0004949903033b6f41d556d0.ts
 Cinemax,p5p://fccs.123178.top:9906/6044da6a0001a688030810f78cca6d6c.ts
 龍祥電影台,p5p://fccs.123178.top:9906/6045bb31000469b906761b04cfa6bdb1.ts
 緯來電影,p5p://fccs.123178.top:9906/.6045bc330008915e067a0be52c863eff.ts
-雙星母雞-知識,#genre#
+知識,#genre#
 探索频道,p5p://fccs.123178.top:9906/60433c22000c069b0695b54fa99695c8
 探索亞洲频道,p5p://fccs.123178.top:9906/60433ee00002fb7906a0692e6558cb55
 探索科學,p5p://fccs.123178.top:9906/6043456f00065dec06ba08a499663c96
@@ -56,7 +57,7 @@ BBC Lifestyle,p5p://fccs.123178.top:9906/604403fd0002ca1a09a262690b80ac95.ts
 BBC Earth,p5p://fccs.123178.top:9906/6044049e000eb7a609a4da5fcd30cc43.ts
 tvN,p5p://fccs.123178.top:9906/60440983000c3b9b09b7f844459e12ab.ts
 Lifetime,p5p://fccs.123178.top:9906/60440d6800025fd909c72c46337e9f6b.ts
-雙星母雞-體育,#genre#
+體育,#genre#
 Outdoor,p5p://fccs.123178.top:9906/60434713000a12a206c07237b306369a
 ＢＳ釣りビジョン,p5p://fccs.123178.top:9906/604402870001f71c099cad43e96233b3
 愛爾達體育1台,p5p://fccs.123178.top:9906/6044394f000bdf980092c21d614c13c6.ts
@@ -77,7 +78,7 @@ Eleven运动台2,p5p://fccs.123178.top:9906/60447228000e0e420170d2547df9954a.ts
 博斯運動 II,p5p://fccs.123178.top:9906/6044799300093dbb018dcb11ecf6cc03.ts
 華視體育文化,p5p://fccs.123178.top:9906/60448b33000df9b601d2a54784a00d4b.ts
 緯來體育HD,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
-雙星母雞-流行,#genre#
+流行,#genre#
 視納華仁紀實台,tvbus://3BWP6X6HKY3jp6JHbqRBRSAxtoFRsF4iWQ3KeoCAc2cjmZgVLL
 影迷數位電影台,p5p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
 影迷數位紀實台,p5p://fccs.123178.top:9906/60494398000c2ccb1442ef592de01971.ts
@@ -94,7 +95,7 @@ Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
 Lifetime,p5p://fccs.123178.top:9906/60440d6800025fd909c72c46337e9f6b.ts
 WakuWakuJapan,p5p://fccs.123178.top:9906/604419f4000340840018447096a9f004.ts
 Travel 旅游频道,p5p://fccs.123178.top:9906/604944bf0002e33c14476d50e1deb4e1.ts
-雙星母雞-綜合,#genre#
+綜合,#genre#
 視納華仁紀實台,tvbus://3BWP6X6HKY3jp6JHbqRBRSAxtoFRsF4iWQ3KeoCAc2cjmZgVLL
 影迷數位電影台,p5p://fccs.123178.top:9906/6068a2650003dd4d135a407336ec164f.ts
 影迷數位紀實台,p5p://fccs.123178.top:9906/60494398000c2ccb1442ef592de01971.ts
@@ -132,7 +133,7 @@ TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
 星空衛視,p5p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
 高點綜合,p5p://fccs.123178.top:9906/604640070003e1f8087cfed268004b6c.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
-雙星母雞-旅遊,#genre#
+旅遊,#genre#
 日本旅游频道,tvbus://44Eoje2YJ9KEw1meNHWCvTDK3Dh8vWMHEVU4TKpesiT42kNeeF
 EYE TV旅遊台,p5p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
 TLC旅遊台,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
@@ -142,7 +143,7 @@ FOOD美食,p5p://fccs.123178.top:9906/604407250006a38d09aeb7a6e70be747.ts
 幸福居家,tvbus://3gVPbbPAsoAX7Xhc8bhh99QUJM3Ejg3p6agfiqychsmcbzXUx6
 美食星球,p5p://fccs.123178.top:9906/604945ed00053a5b144c099a65029d36.ts
 Travel 旅游频道,p5p://fccs.123178.top:9906/604944bf0002e33c14476d50e1deb4e1.ts
-雙星母雞-美食,#genre#
+美食,#genre#
 日本旅游频道,tvbus://44Eoje2YJ9KEw1meNHWCvTDK3Dh8vWMHEVU4TKpesiT42kNeeF
 EYE TV旅遊台,p5p://fccs.123178.top:9906/60494553000b340f1449b191f22032d6.ts
 TLC旅遊台,p5p://fccs.123178.top:9906/60440517000a918709a6b1f73be1eeb9.ts
@@ -152,7 +153,7 @@ FOOD美食,p5p://fccs.123178.top:9906/604407250006a38d09aeb7a6e70be747.ts
 幸福居家,tvbus://3gVPbbPAsoAX7Xhc8bhh99QUJM3Ejg3p6agfiqychsmcbzXUx6
 美食星球,p5p://fccs.123178.top:9906/604945ed00053a5b144c099a65029d36.ts
 Travel 旅游频道,p5p://fccs.123178.top:9906/604944bf0002e33c14476d50e1deb4e1.ts
-雙星母雞-音樂,#genre#
+音樂,#genre#
 MTV HD,tvbus://31mfwjxXeK2sUVMvLLB7SeuyB91K1dhw1wNNkegSCb1cN39MyX
 Classica HD古典音樂,p5p://fccs.123178.top:9906/60689dd9000cb8ae13487fd8feab0590.ts
 Mezzo Live,p5p://fccs.123178.top:9906/6044084c000d934609b339c4b9e633ef.ts
@@ -162,7 +163,7 @@ LUXE奢華頻道,p5p://fccs.123178.top:9906/60689d7b000b57f61347104e33aa1e24.ts
 韓國娛樂台KMTV,p5p://fccs.123178.top:9906/606bcab100003ef205c38d91720ec13b.ts
 MTV Live,p5p://fccs.123178.top:9906/60440af600097aa009bda0c8f60b1cae.ts
 Channel V,p5p://fccs.123178.top:9906/607396f000059e490994da3ca99473b4.ts
-雙星母雞-綜藝,#genre#
+綜藝,#genre#
 采昌影劇,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
 三立綜合台,p5p://fccs.123178.top:9906/60441aa3000729ad001af109e515adad.ts
 三立戲劇台,p5p://fccs.123178.top:9906/60441b4f00036f62001d8ff40f884e87.ts
@@ -202,7 +203,7 @@ JET综合,p5p://fccs.123178.top:9906/6044d49a0003828802f15cf1eb31478a.ts
 緯來綜合,p5p://fccs.123178.top:9906/6045be33000be06a0681dcbdb39f2973.ts
 高點綜合,p5p://fccs.123178.top:9906/604640070003e1f8087cfed268004b6c.ts
 東風衛視,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
-雙星母雞-戲劇,#genre#
+戲劇,#genre#
 采昌影劇,p5p://fccs.123178.top:9906/604411ec0004d59109d8d087e9645ce6.ts
 三立綜合台,p5p://fccs.123178.top:9906/60441aa3000729ad001af109e515adad.ts
 三立戲劇台,p5p://fccs.123178.top:9906/60441b4f00036f62001d8ff40f884e87.ts
@@ -238,7 +239,7 @@ TVBS 歡樂台,p5p://fccs.123178.top:9906/60449be700025e680213e16e7d39f5a6.ts
 緯來育樂,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
 三立台灣台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
 三立都會台,p5p://fccs.123178.top:9906/60435aa10002e65e070cd311539826d8.ts
-雙星母雞-日本,#genre#
+日本,#genre#
 WakuWakuJapan,p5p://fccs.123178.top:9906/604419f4000340840018447096a9f004.ts
 NHK World HD,p5p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
 緯來日本台,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
@@ -279,7 +280,7 @@ J SPORTS 4,p5p://fccs.123178.top:9906/606ad6e40009cf36020b373c301e8c53.ts
 BSアニマックス,p5p://fccs.123178.top:9906/606ad57c000861930205b89ef48f3493.ts
 ANIMAX,p5p://fccs.123178.top:9906/606b4e4f0004a33a03ddafe180ec2c65.ts
 スカイA,p5p://fccs.123178.top:9906/606ad4150004092602003d29e945df69.ts
-雙星母雞-新聞,#genre#
+新聞,#genre#
 歐洲Euronews,p5p://fccs.123178.top:9906/60469e39000981f109ecf392ea2309d5.ts
 NHK World HD,p5p://fccs.123178.top:9906/6044741d0000e8b9017873ff81c638cb.ts
 壹電視新聞台,p5p://fccs.123178.top:9906/6069902f0003db1b16fb1d83c7d47b04.ts
@@ -304,7 +305,7 @@ DW-TV ASIEN,tvbus://2xbq5o8vEY73SX1Ef1khhap1xj323hYzQmZUWv2kLCkBJna9Fc
 CNBC Asia,p5p://fccs.123178.top:9906/604643c100068849088b8e0fef813f1c.ts
 France 24,tvbus://36XN3ZuJhb5JdmPrKsFE1WMnf9DayFVP5vnuN8WRiJAWsX6mLU
 半島電視,tvbus://4KnFZbsL7QU1wC8h6eLnZa7vSyKHg6yu3PLSHMR1tFg33NVXAX
-雙星母雞-兒童,#genre#
+兒童,#genre#
 KIDZON HD,tvbus://35bvYywJWcByGGxaNRUtEYqQ29CX2bC7SmMnNNzpk3MgHpAeac
 靖天卡通台,tvbus://4ACoyHPeaCVVfSJFtkVrom3Tapz4E4CExe5x9uosxBmTwq4u4d
 靖洋卡通台,tvbus://3U8U8T2Lj525RXnDyHXb71CcEmHJaaKQdcJ8ibSZGbdwX1taRF
@@ -318,7 +319,7 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 迪士尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
-雙星母雞-動晝台,#genre#
+動晝台,#genre#
 KIDZON HD,tvbus://35bvYywJWcByGGxaNRUtEYqQ29CX2bC7SmMnNNzpk3MgHpAeac
 龍華動畫,p5p://fccs.123178.top:9906/6044594300037550010f9116e9856cd9.ts
 靖天卡通台,tvbus://4ACoyHPeaCVVfSJFtkVrom3Tapz4E4CExe5x9uosxBmTwq4u4d
@@ -333,7 +334,7 @@ MoMo親子台,p5p://fccs.123178.top:9906/604480210005726601a764c84f1d9e1c.ts
 CN卡通,p5p://fccs.123178.top:9906/604480aa000baba001a97d8882607e75.ts
 東森幼幼,p5p://fccs.123178.top:9906/6044812c00070c6401ab7829e94ee52d.ts
 迪士尼卡通,p5p://fccs.123178.top:9906/604481b9000baf3801ada02160f76b5d.ts
-雙星母雞-香港,#genre#
+香港,#genre#
 鳳凰資訊台,p5p://fccs.123178.top:9906/604354a700001c2706f579cae17a48f1.ts
 鳳凰中文台,p5p://fccs.123178.top:9906/604355380000ff4606f7b06cbafec3a5.ts
 鳳凰香港,p5p://fccs.123178.top:9906/604355eb000c9c6806fa6e9daf90ff12.ts
@@ -355,7 +356,7 @@ VIU SIX,p5p://fccs.123178.top:9906/6048a78000060c3711e13007fb8dc89b.ts
 有線體育台,p5p://fccs.123178.top:9906/60693dc3000cb8a915b929e8dfe270a3.ts
 TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
 星空衛視,p5p://fccs.123178.top:9906/60463ee9000522e20878a1f4688ea89f.ts
-雙星母雞-台灣台,#genre#
+台灣台,#genre#
 民視台灣台,p5p://fccs.123178.top:9906/6044825e000bd32801b024b2f4ff7f01.ts
 民視第一台,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
 民視 HD,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
@@ -379,7 +380,7 @@ TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
 台視綜合,p5p://fccs.123178.top:9906/6044936700021fe101f2ad5ea50e836e.ts
 客家電視,p5p://fccs.123178.top:9906/604494f1000344c901f8b0b9b9276851.ts
 原民台,p5p://fccs.123178.top:9906/60449577000d314201fabeb4cb9a2626.ts
-雙星母雞-宗教,#genre#
+宗教,#genre#
 大愛電視台,p5p://fccs.123178.top:9906/6044917a0000fce101eb274c2044b550.ts
 好消息,p5p://fccs.123178.top:9906/604492a5000ce2b901efba50aff106f3.ts
 緯來精彩,p5p://fccs.123178.top:9906/6044a30800006812022fb9d6202c684d.ts
@@ -387,7 +388,7 @@ TVB星河,p5p://fccs.123178.top:9906/60463cd5000f308a087086672166e0af.ts
 華藏衛視,p5p://fccs.123178.top:9906/60463e4f0004c7480876484c7d16a8e0.ts
 人間衛視,p5p://fccs.123178.top:9906/60463f7d000802da087ae4d0305dfcaf.ts
 澳亞衛視,tvbus://3fFw1MTbiTdoDo9qxNkJur9Uyf7dFuPvRzgCBhbYyRqNUs9E2Y
-雙星母雞-休閒,#genre#
+休閒,#genre#
 樂活,p5p://fccs.123178.top:9906/6069480a00012bea15e14c4b5a8a79f5.ts
 HIPLAY,p5p://fccs.123178.top:9906/606947ae0006005b15dfe627af5a3968.ts
 LOOK-HD,tvbus://4BVfcfk8gM5f5gcfbNncYCpQKfZh7QjPKpARxXZKtskU8dXg3o
@@ -402,7 +403,7 @@ HOT,p5p://fccs.123178.top:9906/606945cf000dd57c15d8991121145d16.ts
 松視3台,p5p://fccs.123178.top:9906/606943ef00074b4415d14464874a7f4a.ts
 香蕉台,p5p://fccs.123178.top:9906/606946c800011e4e15dc6277aee5ff0b.ts
 JSTAR極限台,p5p://fccs.123178.top:9906/6069472f000e3bd815ddf82b31da15c3.ts
-雙星母雞-韓國,#genre#
+韓國,#genre#
 KBS1,p5p://fccs.123178.top:9906/606bd5a5000ac7e005ee5963f62cfb1a.ts
 KBS2,p5p://fccs.123178.top:9906/606bd5ca0002991a05eee7d370881c60.ts
 SBS,p5p://fccs.123178.top:9906/606bd5ee0009fefd05ef7658b4d14aa5.ts
